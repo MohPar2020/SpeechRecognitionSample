@@ -1,0 +1,10 @@
+C:\Users\Mohsen\source\repos\SpeechRecognitionSample\SpeechRecognitionSample\bin\Debug\SpeechRecognitionSample.exe.config
+C:\Users\Mohsen\source\repos\SpeechRecognitionSample\SpeechRecognitionSample\bin\Debug\SpeechRecognitionSample.exe
+C:\Users\Mohsen\source\repos\SpeechRecognitionSample\SpeechRecognitionSample\bin\Debug\SpeechRecognitionSample.pdb
+C:\Users\Mohsen\source\repos\SpeechRecognitionSample\SpeechRecognitionSample\obj\Debug\SpeechRecognitionSample.csprojResolveAssemblyReference.cache
+C:\Users\Mohsen\source\repos\SpeechRecognitionSample\SpeechRecognitionSample\obj\Debug\SpeechRecognitionSample.Properties.Resources.resources
+C:\Users\Mohsen\source\repos\SpeechRecognitionSample\SpeechRecognitionSample\obj\Debug\SpeechRecognitionSample.csproj.GenerateResource.cache
+C:\Users\Mohsen\source\repos\SpeechRecognitionSample\SpeechRecognitionSample\obj\Debug\SpeechRecognitionSample.csproj.CoreCompileInputs.cache
+C:\Users\Mohsen\source\repos\SpeechRecognitionSample\SpeechRecognitionSample\obj\Debug\SpeechRecognitionSample.exe
+C:\Users\Mohsen\source\repos\SpeechRecognitionSample\SpeechRecognitionSample\obj\Debug\SpeechRecognitionSample.pdb
+C:\Users\Mohsen\source\repos\SpeechRecognitionSample\SpeechRecognitionSample\obj\Debug\SpeechRecognitionSample.Form1.resources
